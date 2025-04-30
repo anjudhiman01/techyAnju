@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Anju!
 
-<!--
-**BuildWithAnju/BuildWithAnju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MCA student with a deep interest in problem-solving, coding, and web development.  
+I love creating interactive websites, mentoring students, and continuously learning new tech skills.
 
-Here are some ideas to get you started:
+## My Portfolio
+Check out my live portfolio here:  
+[https://buildwithanju.github.io/Portfolio/](https://buildwithanju.github.io/Portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: C, C++, Java
+- Web Development: HTML, CSS (learning JavaScript)
+- Tools: Git, GitHub, VS Code
+- Other Interests: Teaching, Drawing, Sketching, Stitching
+
+## Current Focus
+- Mastering Java and Data Structures and Algorithms
+- Building more personal projects
+- Learning backend development (next: PHP, Python, Node.js, Flask/Django, REST APIs))
+
+## Connect With Me
+- LinkedIn: [https://www.linkedin.com/in/anju-dhiman-7214a5327/]
+- GitHub: [https://github.com/BuildWithAnju](https://github.com/BuildWithAnju)
+- Email: [anjudhiman7044@google.com]
+
+---
+
+Thanks for visiting my profile!
