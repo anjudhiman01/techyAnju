@@ -1,6 +1,6 @@
 # Hi, I'm Anju!
 
-I'm an MCA student with a deep interest in problem-solving, coding, and web development.  
+I'm an MCA student with a deep interest in problem-solving, coding and web development.  
 I love creating interactive websites, mentoring students and continuously learning new tech skills.
 
 ## My Portfolio
