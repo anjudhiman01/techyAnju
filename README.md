@@ -19,7 +19,7 @@ Check out my live portfolio here:
 - Learning backend development (next: PHP, Python, Node.js, Flask/Django, REST APIs))
 
 ## Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/anju-dhiman-7214a5327/]
+- LinkedIn: [https://www.linkedin.com/in/anju-dhiman01]
 - GitHub: [https://github.com/techyAnju](https://github.com/techyAnju)
 - Email: [anjudhiman7044@google.com]
 
