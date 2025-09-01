@@ -5,7 +5,7 @@ I love creating interactive websites, mentoring students and continuously learni
 
 ## My Portfolio
 Check out my live portfolio here:  
-[https://techyAnju.github.io/Portfolio/](https://techyAnju.github.io/Portfolio/)
+[https://anjudhiman01.github.io/Portfolio/](https://anjudhiman01.github.io/Portfolio/)
 
 ## Skills
 - Programming Languages: C, C++, Java
@@ -20,7 +20,7 @@ Check out my live portfolio here:
 
 ## Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/anju-dhiman01]
-- GitHub: [https://github.com/techyAnju](https://github.com/techyAnju)
+- GitHub: [https://github.com/anjudhiman01](https://github.com/anjudhiman01)
 - Email: [anjudhiman7044@google.com]
 
 ---
